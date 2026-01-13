@@ -54,6 +54,7 @@
 【第837期】【cloudflared系列】[（中）cloudflared可以当soc... ](https://www.youtube.com/watch?v=Bwjma-tW4s0) 
 
 ■Github：
+
 https://github.com/lukuichina/youtube...
 
 https://github.com/lukuichina/youtube...
@@ -61,9 +62,5 @@ https://github.com/lukuichina/youtube...
 https://github.com/lukuichina/youtube...
 
 https://github.com/lukuichina/v2rayN/...
-
-【第837期】【cloudflared系列】（中）cloudflared可以当socks服务器来用，大家有用过吗？通过本地管理隧道可利用cloudflared充当socks5代理，不需要第三方软件！
-   • 【第837期】【cloudflared系列】（中）cloudflared可以当soc...  '''
-
 
 
