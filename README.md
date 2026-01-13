@@ -42,4 +42,4 @@
 
 ★★★311期：cloudflare隧道做回退源进行saas加速之联想篇！云端隧道用Catch-all rule接入非CF托管域名！RDP，SSH，Web服务统合演示！★★★
 
-[cf隧道系列】（中）cloudflared云端隧道控制面板中，catch all规则无法正常访问HTTPS服务？终极方案：调用官方API可添加自定义属性，只是在控制面板看不见？](https://github.com/lukuichina/youtube/tree/main/2026/881)
+[cf隧道系列】（中）cloudflared云端隧道控制面板中，catch all规则无法正常访问HTTPS服务？终极方案：调用官方API可添加自定义属性，只是在控制面板看不见？](https://github.com/lukuichina/youtube/tree/main/2026/881)[【学习视频】](https://www.youtube.com/watch?v=SZo9mfIXgtE)
