@@ -47,8 +47,23 @@
 ★★★882期：cf隧道系列（上）[活用881-883期cloudflare官方API，云端管理隧道利用cloudflared变身为socks5代理服务器？不依赖于第三方软件](https://github.com/lukuichina/youtube/tree/main/2025/838)
 [【学习视频】](https://www.youtube.com/watch?v=BfsZj9Lygeo&list=PLsxYP0-uGruaPEEcFbAvl2ENBbuuHOhkO&index=2)
 
+★★★886期：cf隧道系列[（下）cloudflared](https://www.youtube.com/watch?v=e6nzNRu-D28&list=PLsxYP0-uGruaPEEcFbAvl2ENBbuuHOhkO)隧道已经是好多人家庭网络的标配，可开socks5代理方便在外面通过家庭网络代理上网，或访问家庭网络中的资源
 
+【第837期】【cloudflared系列】（中）cloudflared可以当socks服务器来用，大家有用过吗？通过本地管理隧道可利用cloudflared充当socks5代理，不需要第三方软件！
 
+【第837期】【cloudflared系列】[（中）cloudflared可以当soc... ](https://www.youtube.com/watch?v=Bwjma-tW4s0) 
+
+■Github：
+https://github.com/lukuichina/youtube...
+
+https://github.com/lukuichina/youtube...
+
+https://github.com/lukuichina/youtube...
+
+https://github.com/lukuichina/v2rayN/...
+
+【第837期】【cloudflared系列】（中）cloudflared可以当socks服务器来用，大家有用过吗？通过本地管理隧道可利用cloudflared充当socks5代理，不需要第三方软件！
+   • 【第837期】【cloudflared系列】（中）cloudflared可以当soc...  '''
 
 
 
